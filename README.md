@@ -1,5 +1,5 @@
 ### Hey there 👋
-I am Anas, a multidisciplinary and passionate about creativity, and I am currently studying in the Faculty of Computer Science and Artificial Intelligence in my second year at the Modern University for Technology & Information. I am passionate about everything related to programming and graphic design, and I am also interested in digital art, and calligraphy as well. I love teaching programming and design and helping people elevate their both fields skills.
+I am Anas, a multidisciplinary and passionate about creativity, and I am currently studying in the Faculty of Computer Science and Artificial Intelligence in my second year at the Modern University for Technology & Information. I am passionate about everything related to programming and graphic design, and I am also interested in digital art, and calligraphy as well. I love teaching programming and design and helping people elevate both fields' skills.
 
 
 <!--
