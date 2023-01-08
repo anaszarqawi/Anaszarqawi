@@ -1,4 +1,4 @@
-<img width="2049" alt="githubCover" src="https://user-images.githubusercontent.com/75158182/185450072-074b6b3f-481e-4229-b989-580483e73954.png">
+<img width="2049" alt="githubCover" src="https://user-images.githubusercontent.com/75158182/211198809-7cb75314-5a7a-4878-91fa-b96f56aa2230.png">
 
 
 ## Hey there, I'm Anas Zarqawi
